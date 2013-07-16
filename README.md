@@ -4,6 +4,7 @@ Behavior to add LESS support to Yii.
 Usage:
 - Put the files in the extensions directory.
 - Configure CClientScript to load this behavior
+  
   'components' => array(
     'clientscript' => array(
       'behaviors' => array(
